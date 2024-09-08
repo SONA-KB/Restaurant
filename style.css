@@ -146,12 +146,12 @@
 }
 
 /* Reviews Section */
-#reviews {
+#review {
     padding: 50px 20px;
     background-color: #f8f8f8;
 }
 
-#reviews h2 {
+#review h2 {
     text-align: center;
     font-size: 2.5em;
     margin-bottom: 30px;
